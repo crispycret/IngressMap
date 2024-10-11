@@ -1,0 +1,7 @@
+I work as a service technician with a broadband a cable company that utilizes an HFC network to provide HSD to customers. Our network is impacted by noise or ingress coming from our customers homes. As a service tech I use the ONX 650 viavi meter to troubleshoot homes and I am constently taking readings of customers homes for ingress while on service calls and while doing leak jobs. I want to build a system to record ingress readings of customers homes with the goal of having a map that will show problematic homes and will allow us to perform regular cleanings of our network to reduce incoming ingress from customer homes to improve our system. 
+
+The project I want to create is a React frontend that will allow ingress recordings to be submitted manully and with an optional ingress file uploaded from the viavi onx meter. The second portion of the react app will include a map that shows a filter based viewing of the submitted ingress reports with longitude, latitude coordiantes and an address while being able to view homes by a the amount of ingress and the frequency range of that ingress.
+
+Python will be used as the backend API  for this project to authenticate users and store data and retreieve data.
+
+This project will be completed in stages with regular updates that will reach the stated goal above.  Help me write a README.md file for this project that states the goal, the technologies involved and how this project can be used and how a concise ROADMAP.md file.
